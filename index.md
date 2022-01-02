@@ -5,6 +5,6 @@
 ![ok let's go](https://c.tenor.com/6bH95ttxw2wAAAAd/okey-lets-go-toys.gif)
 
 - [Раскуриваю как работает base64](base64)
-- [Разбор xss-game от google](xss-game.md)
-- Раскуриваю как работает nm и otool
+- [Разбор xss-game от google](xss-game)
+- [Раскуриваю как работает nm и otool](nm-otool)
 - Раскуриваю как работает упаковщик, пишу простенький
