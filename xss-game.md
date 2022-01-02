@@ -1,6 +1,6 @@
 # Разбор xss-game от google
 
-![image](https://user-images.githubusercontent.com/74491315/147869790-a0fe87aa-6f19-44d1-8578-cf6eb567ee4d.png)
+![xss-game](https://user-images.githubusercontent.com/74491315/147869811-e1fb566e-1e50-4c17-a8d1-15c19b1f8a41.png)
 
 ## [1/6]  Level 1: Hello, world of XSS
 
