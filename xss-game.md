@@ -1,6 +1,6 @@
 # Разбор xss-game от google
 
-- [xss-game](https://xss-game.appspot.com/)
+![image](https://user-images.githubusercontent.com/74491315/147869790-a0fe87aa-6f19-44d1-8578-cf6eb567ee4d.png)
 
 ## [1/6]  Level 1: Hello, world of XSS
 
