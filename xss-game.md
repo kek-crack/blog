@@ -62,9 +62,7 @@ html += "<img src='/static/level3/cloud" + num + ".jpg' />";
 
 Переходим по ссылке для регистрирации, видим, поле для ввода ```email``` и ссылку ```Next```. Видим, что мы можем манипулировать значением ```href```:
 
-```html
-<a href="{{ next }}">Next >></a>
-```
+![image](https://user-images.githubusercontent.com/74491315/147869720-2e5e9330-4c84-4d67-b9fa-ca7d6360abad.png)
 
 Все просто, используем протокол ```javascript``` и исполняем свой код:
 
