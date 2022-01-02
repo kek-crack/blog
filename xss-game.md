@@ -44,9 +44,7 @@ html += "<img src='/static/level3/cloud" + num + ".jpg' />";
 
 Видим, что мы можем манипулировать аргументом функции обработчика:
 
-```html
-<!--<img src="/static/loading.gif" onload="startTimer('{{ timer }}');" />-->
-```
+![timer](https://user-images.githubusercontent.com/74491315/147869660-e547470a-bda9-4ebe-b721-ba030938f04a.png)
 
 Наша нагрузка будет выглядить так:
 
