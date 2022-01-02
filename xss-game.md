@@ -1,6 +1,6 @@
 # Разбор xss-game от google
 
-![xss-game](https://user-images.githubusercontent.com/74491315/147869811-e1fb566e-1e50-4c17-a8d1-15c19b1f8a41.png)
+![xss-game-start](https://user-images.githubusercontent.com/74491315/147869811-e1fb566e-1e50-4c17-a8d1-15c19b1f8a41.png)
 
 ## [1/6]  Level 1: Hello, world of XSS
 
@@ -88,3 +88,6 @@ data:text/javascript,alert()
 ```
 
 Вот и всё :)
+
+![xss-game-done](https://user-images.githubusercontent.com/74491315/147869862-574df19a-3528-451c-8577-5da656429c93.png)
+
